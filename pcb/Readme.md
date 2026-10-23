@@ -1,0 +1,1 @@
+For now gerbers and schematics are available, plus project files and BOM. This pcb was created using EasyEda pro online, manufactured by jlcpcb. For manufacturing the following option is needed: 0.8 mm pcb thickness, the rest can be left as stock. If also getting assembly i suggest selecting the optional chemical pcb cleaning.
