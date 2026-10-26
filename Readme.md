@@ -1,6 +1,6 @@
 # OpenWatch
 
-**I needed a smartwatch os i tred making one, with a custom PCB, a printed case, and custom firmware, here's what i came up with.**
+**I needed a smartwatch so i tried making one, with a custom PCB, a printed case, and custom firmware, here's what i came up with.**
 
 OpenWatch follows my earlier [Potato Watch](https://github.com/angelogerminario/Potato-watch) project. This version moves to a more serious nRF52840 (very cool chip, also used in apple airtags) and a monochrome e-paper touchscreen, with a focus on battery efficiency and features that are commonly not found on a smartwatch, like full openness of the software/hardware stack, full mifare nfc emulation and more.
 
